@@ -1,0 +1,4 @@
+rootProject.name = 'rmm-backend'
+include 'app'
+include 'core'
+include 'model'
