@@ -1,0 +1,6 @@
+spring:
+  sql:
+    init:
+      mode: never
+  datasource:
+    url: jdbc:h2:mem:test_db;DB_CLOSE_ON_EXIT=FALSE

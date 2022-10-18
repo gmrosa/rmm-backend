@@ -1,3 +1,7 @@
+spring:
+  sql:
+    init:
+      mode: never
 springdoc:
   api-docs:
     enabled: 'false'
